@@ -13,7 +13,7 @@
 2. Open Google Chrome and go to chrome://extensions
 3. Enable Developer mode in top right corner
 4. Click on load unpacked
-5. Select the downloaded repository folder
+5. Select the downloaded repository folder.
 
 # Screenshots :-
 
