@@ -1,4 +1,4 @@
-# Chrome-Extension
+# Chrome-Extension :-
 
 1. It is currently under Development with Version 1.0.0.
 2. This extension gives a custom new tab. 
@@ -7,7 +7,7 @@
 5. It currently partially supports mobile website version but will update in future.
 6. New Versions will have Background Sounds to New Tabs.
 
-# How to Use till Then :-
+## How to Use till Then :->
 
 1. Clone the repository
 2. Open Google Chrome and go to chrome://extensions
@@ -15,6 +15,6 @@
 4. Click on load unpacked
 5. Select the downloaded repository folder.
 
-# Screenshots :-
+## Screenshots :-
 
 
