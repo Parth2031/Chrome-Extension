@@ -14,7 +14,3 @@
 3. Enable Developer mode in top right corner
 4. Click on load unpacked
 5. Select the downloaded repository folder.
-
-## Screenshots :-
-
-
