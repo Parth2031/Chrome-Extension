@@ -14,3 +14,9 @@
 3. Enable Developer mode in top right corner
 4. Click on load unpacked.
 5. Select the downloaded repository folder.
+
+## Screenshot :-
+
+### Extension asks you to add content for Greeting -
+
+![](Images/New Tab Images/Add_Content_for_Greeting.png)
