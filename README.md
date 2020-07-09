@@ -19,4 +19,4 @@
 
 ### Extension asks you to add content for Greeting -
 
-![](Images/New Tab Images/Add_Content_for_Greeting.png)
+![](Images/NewTabImages/Add_Content_for_Greeting.png)
