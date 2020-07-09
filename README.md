@@ -20,3 +20,15 @@
 ### Extension asks you to add content for Greeting -
 
 ![](Images/NewTabImages/Add_Content_for_Greeting.png)
+
+### Change Background and display custom effect with typing effect -
+
+![](Images/NewTabImages/Change_Background.png)
+
+### Add tasks to extension -
+
+![](Images/NewTabImages/Add_Tasks.png)
+
+### Add favourite sites from anywhere in the browser from the extension popup menu or directly by giving name and url in link box -
+
+![](Images/NewTabImages/Add_Favourite_Sites.png)
