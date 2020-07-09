@@ -15,7 +15,7 @@
 4. Click on load unpacked.
 5. Select the downloaded repository folder.
 
-## Screenshot :-
+## Screenshots :-
 
 ### Extension asks you to add content for Greeting -
 
